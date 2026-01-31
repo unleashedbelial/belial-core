@@ -1,0 +1,24 @@
+{
+  "name": "belial-core",
+  "version": "0.1.0",
+  "description": "Agent services marketplace - economic infrastructure for AI agents",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "test": "jest"
+  },
+  "keywords": [
+    "ai-agents",
+    "marketplace",
+    "moltbook",
+    "belial",
+    "solana",
+    "base"
+  ],
+  "author": "Belial <unleashedBelial>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
